@@ -1,9 +1,3 @@
-# Tuono tutorial
+#### Maelsite
 
-This project is the outcome of the [tuono tutorial](https://tuono.dev/documentation/tutorial)
-
-If you want to directly install it you can run:
-
-```sh
-tuono new -t tuono-tutorial
-```
+This is my portfolio/personal website. [You should go visit it instead of being here.](https://www.maelrawn.dev)
