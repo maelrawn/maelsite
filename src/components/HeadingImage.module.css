@@ -1,0 +1,8 @@
+.row {
+  max-height: 15rem;
+  img {
+    object-fit: cover;
+    object-position: 50% 38%;
+    width: 100%;
+  }
+}

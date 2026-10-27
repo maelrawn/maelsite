@@ -1,0 +1,10 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+}
+
+li {
+  flex-basis: 32%;
+  margin: 0.66%; /* At 3 elements per row, you get 6 x-margins */
+}

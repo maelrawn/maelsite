@@ -1,0 +1,73 @@
+{
+  "items": [
+    {
+      "key": 1,
+      "title": "GoTerm.sh",
+      "subtitle": "Go, in your terminal",
+      "header_image": [""],
+      "desc_short": "In-dev service for playing the board game Go over SSH",
+      "desc_long": "./md/goterm.md",
+      "tools": ["Rust", "AWS", "SSH"],
+      "hosted_at": "ssh:goterm.sh -p 2222"
+    },
+    {
+      "key": 2,
+      "title": "maelrawn dot dev",
+      "subtitle": "You Are Here",
+      "header_image": [""],
+      "desc_short": "My website, written in React and Rust, served with Tuono",
+      "desc_long": "./md/maelsite.md",
+      "tools": ["Rust", "React", "Tuono"],
+      "hosted_at": "https://www.maelrawn.dev"
+    },
+    {
+      "key": 3,
+      "title": "Campus Conversion & Retention Analysis",
+      "subtitle": "Linking socioeconomics and business strategy",
+      "header_image": [
+        "https://website-res-964843501561-us-east-2-an.s3.us-east-2.amazonaws.com/campus_project_title.png"
+      ],
+      "desc_short": "Analysis of anonymized sample data for Campus. Proved various socioeconomic factors were good predictors of student retention and performance.",
+      "desc_long": "./md/campus_case_study.md",
+      "tools": ["Python", "scikit-learn", "Hex.Tech"],
+      "hosted_at": ""
+    },
+    {
+      "key": 4,
+      "title": "ReBoot UNtapped",
+      "subtitle": "Outlining AI Solutions for UN Peacekeepers",
+      "header_image": [
+        "https://website-res-964843501561-us-east-2-an.s3.us-east-2.amazonaws.com/Reboot+UNtapped+logo.png"
+      ],
+      "desc_short": "Worked with a group of UN staff members to develop framework for an AI-integrated CRM on behalf of UNFICYP",
+      "desc_long": "./md/cyprus.md",
+      "tools": ["Python", "scikit-learn NLP"],
+      "hosted_at": ""
+    },
+    {
+      "key": 5,
+      "title": "Staff Selection 2.0 Tooling",
+      "subtitle": "Pipeline & Dashboard for UURMS Recruitment",
+      "header_image": [
+        "https://website-res-964843501561-us-east-2-an.s3.us-east-2.amazonaws.com/Recruitment+Dashboard+Carousel+Item+1.png",
+        "https://website-res-964843501561-us-east-2-an.s3.us-east-2.amazonaws.com/Recruitment+Dashboard+Carousel+Item+2.png"
+      ],
+      "desc_short": "A pipeline and dashboard for DMSPC leadership, tracking KPIs related to the Staff Selection 2.0 initiative.",
+      "desc_long": "./md/staff_selection.md",
+      "tools": ["PowerBI"],
+      "hosted_at": ""
+    },
+    {
+      "key": 6,
+      "title": "UN Gender Parity Analysis",
+      "subtitle": "Application-pipeline analysis project",
+      "header_image": [
+        "https://website-res-964843501561-us-east-2-an.s3.us-east-2.amazonaws.com/un_report_title.png"
+      ],
+      "desc_short": "Analysis of anonymized United Nations staff data with projections and recommendations to achieve gender parity within the organization",
+      "desc_long": "./md/un_project.md",
+      "tools": ["Python", "scikit-learn", "LaTeX"],
+      "hosted_at": ""
+    }
+  ]
+}
